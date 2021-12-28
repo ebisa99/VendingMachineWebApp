@@ -1,0 +1,55 @@
+﻿#itemBorder
+{
+    border-style: solid;
+    border-width: thick;
+    float:left;
+	/*display: inline-block;*/
+    width: 200px;
+    height: 180px;
+    margin: 10px;
+   flex-wrap: wrap;
+   font-weight:bold;
+}
+h1{
+    text-align:center;
+}
+#moneyDisplayId{
+    width: 100px;
+    height: 40px;
+    margin-left:120px;
+     border-width: thick;
+     font-weight:bold;
+}
+#moneyButtons{
+margin:10px;
+margin-left:50px;
+}
+#messageDisplayId{
+    width: 300px;
+    height: 40px;
+    border-width: thick;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    font-weight:bold;
+}
+#itemDisplayId{
+    width: 100px;
+    height: 40px;
+    border-style: solid;
+    border-width: thick;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    font-weight:bold;
+}
+hr{
+  border: solid;
+}
+#changeDisplayId{
+    width: 350px;
+    height: 40px;
+    border-style: solid;
+    border-width: thick;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    font-weight:bold;
+}
